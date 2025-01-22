@@ -16,7 +16,7 @@ const props = {
             cover: 'img/img2.png',
         },
         {
-            id: 1,
+            id: 3,
             title: 'title 3',
             body: 'body 3',
             cover: 'img/img3.png',
